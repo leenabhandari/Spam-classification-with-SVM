@@ -6,4 +6,4 @@ Sample emails are included in the folder.
 This project is written using GNU Octave/MATLAB.
 Run ex6_spam on the Octave terminal.
 
-''' Note- It is a part of Stanford's ML course '''
+``` Note- It is a part of Stanford's ML course ```
